@@ -11,7 +11,7 @@ export function Header() {
                 <a href="">
                     <Timer size={24}/>
                 </a>
-                <a href="">
+                <a href="/history">
                     <Scroll size={24}/>
                 </a>
             </nav>
